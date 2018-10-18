@@ -1,0 +1,25 @@
+Juan
+Calculo A
+2
+70
+90
+Pedro
+Fisica A
+3
+50
+95
+78
+Luis
+3
+Diseño
+2
+50
+90
+Algebra
+1
+100
+Fundamentos de Diseño Logico
+3
+60
+80
+60
